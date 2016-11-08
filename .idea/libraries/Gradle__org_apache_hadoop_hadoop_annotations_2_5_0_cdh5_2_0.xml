@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.hadoop:hadoop-annotations:2.5.0-cdh5.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hadoop/hadoop-annotations/2.5.0-cdh5.2.0/c39e42a79c99f495c27a919bc8809fbeb49c5311/hadoop-annotations-2.5.0-cdh5.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hadoop/hadoop-annotations/2.5.0-cdh5.2.0/83eb2de0956048682fad02e3b84d28fd05063723/hadoop-annotations-2.5.0-cdh5.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

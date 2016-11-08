@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:common-stream:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/common-stream/1.3.5/3db5a8005941ce7a7c4ee5265211a9351cb8203d/common-stream-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/common-stream/1.3.5/5749cc94c24268b23ff930a23d5c2669120063bb/common-stream-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

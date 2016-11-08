@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:core-experiment:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/core-experiment/1.3.5/827da8b0fc644e375c863ac9afaee1b75e47d848/core-experiment-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/core-experiment/1.3.5/3569bd0b4bbfeb1a3422d97d79789e0437fa74eb/core-experiment-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

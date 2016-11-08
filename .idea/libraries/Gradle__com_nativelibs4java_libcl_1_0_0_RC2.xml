@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.nativelibs4java:libcl:1.0.0-RC2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nativelibs4java/libcl/1.0.0-RC2/2db269c28f1684013707715171f1100d93f3e7db/libcl-1.0.0-RC2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nativelibs4java/libcl/1.0.0-RC2/c9587803c5edfba5cbff419e898ad8415c011952/libcl-1.0.0-RC2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

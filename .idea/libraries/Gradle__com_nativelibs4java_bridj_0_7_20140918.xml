@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.nativelibs4java:bridj:0.7-20140918">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nativelibs4java/bridj/0.7-20140918/83543f53264788fc003c0c238f924b9e2cbefa8a/bridj-0.7-20140918.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nativelibs4java/bridj/0.7-20140918/863b4220bdaeaf0e3e198b40d79cd05fd2b9be3/bridj-0.7-20140918-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.semweb4j:rdf2go.api:4.7.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.semweb4j/rdf2go.api/4.7.2/6154a2f25b934cdbb4ed4d4c2b4389bafae33d38/rdf2go.api-4.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.semweb4j/rdf2go.api/4.7.2/9fe92738717bded0eb90a0ab6b2d93f7e252a90a/rdf2go.api-4.7.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

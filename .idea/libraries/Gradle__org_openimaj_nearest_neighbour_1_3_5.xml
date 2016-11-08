@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:nearest-neighbour:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/nearest-neighbour/1.3.5/1a2f08f449d5411099c2a1ae22f00184cc165b1/nearest-neighbour-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/nearest-neighbour/1.3.5/322259c3dee47070c748352398323e6109b7429/nearest-neighbour-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:image-annotation:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/image-annotation/1.3.5/bac8cf85613c31479dcb5600846ab5d405f3f0fd/image-annotation-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/image-annotation/1.3.5/3456bafdbcebc9ea6c92e622e54c0942a1e58ccc/image-annotation-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:twitter:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/twitter/1.3.5/1090e0a7070188a883629047c759f45bbad19039/twitter-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/twitter/1.3.5/74e0a200354fb59cea6938b551df4d29b2640d6e/twitter-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

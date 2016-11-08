@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.nativelibs4java:opencl4java:1.0.0-RC2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nativelibs4java/opencl4java/1.0.0-RC2/bb1962eaa7fdefebf97d3bb867ca83fbb0bf5a5d/opencl4java-1.0.0-RC2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nativelibs4java/opencl4java/1.0.0-RC2/d5da58b9fdcda43d479846f483bf939aac46019d/opencl4java-1.0.0-RC2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

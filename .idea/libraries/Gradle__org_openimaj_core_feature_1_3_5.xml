@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:core-feature:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/core-feature/1.3.5/c04b0c171a462070dd65d0967fe7f7de0bb71cb7/core-feature-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/core-feature/1.3.5/f0f45f663bfd09678b1717d068ca7faade77cc1b/core-feature-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
