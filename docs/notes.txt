@@ -1,0 +1,6 @@
+
+Resoruces:
+
+Create Video Recorder and display:
+http://stackoverflow.com/questions/11415234/openimaj-capture-and-save-video-from-integrated-camera-or-usb-camera-to-hardisk
+
