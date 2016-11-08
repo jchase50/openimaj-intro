@@ -1,10 +1,19 @@
 import org.openimaj.image.DisplayUtilities;
+import org.openimaj.image.FImage;
 import org.openimaj.image.MBFImage;
+import org.openimaj.image.colour.RGBColour;
+import org.openimaj.image.colour.Transforms;
+import org.openimaj.image.processing.edges.CannyEdgeDetector;
+import org.openimaj.image.processing.face.detection.DetectedFace;
+import org.openimaj.image.processing.face.detection.FaceDetector;
+import org.openimaj.image.processing.face.detection.HaarCascadeDetector;
 import org.openimaj.video.Video;
 import org.openimaj.video.VideoDisplay;
 import org.openimaj.video.VideoDisplayListener;
 import org.openimaj.video.capture.VideoCapture;
 import org.openimaj.video.capture.VideoCaptureException;
+
+import java.util.List;
 
 /**
  * Created by jonathanchase on 11/7/16.
@@ -31,6 +40,42 @@ public class OpenImajDemo implements VideoDisplayListener<MBFImage> {
 
     @Override
     public void beforeUpdate(MBFImage frame) {
+//        doTransparentPixels(frame);
+//        doEdgeDetection(frame);
+//        doFaceDetection(frame);
+        doMaskFaces(frame);
+    }
+
+    private void doMaskFaces(MBFImage frame) {
+        if(backgroundFrame == null){
+            backgroundFrame = frame.clone();
+            DisplayUtilities.display(backgroundFrame);
+            return;
+        }
+        replaceTransparentPixels(frame);
+
+        FaceDetector<DetectedFace,FImage> fd = new HaarCascadeDetector(40);
+        List<DetectedFace> faces = fd.detectFaces(Transforms.calculateIntensity(frame));
+        for( DetectedFace face : faces ) {
+            MBFImage bgForFaceRegion = backgroundFrame.extractROI(face.getBounds());
+            frame.overlayInplace(bgForFaceRegion, (int) face.getBounds().minX(), (int) face.getBounds().minY());
+            frame.drawShape(face.getBounds(), RGBColour.RED);
+        }
+    }
+
+    private void doFaceDetection(MBFImage frame) {
+        FaceDetector<DetectedFace,FImage> fd = new HaarCascadeDetector(40);
+        List<DetectedFace> faces = fd.detectFaces(Transforms.calculateIntensity(frame));
+        for( DetectedFace face : faces ) {
+            frame.drawShape(face.getBounds(), RGBColour.RED);
+        }
+    }
+
+    private void doEdgeDetection(MBFImage frame) {
+        frame.processInplace(new CannyEdgeDetector());
+    }
+
+    private void doTransparentPixels(MBFImage frame){
         if(backgroundFrame == null){
             backgroundFrame = frame.clone();
             DisplayUtilities.display(backgroundFrame);
