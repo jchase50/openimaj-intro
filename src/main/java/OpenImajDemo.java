@@ -43,16 +43,15 @@ public class OpenImajDemo implements VideoDisplayListener<MBFImage> {
 //        doTransparentPixels(frame);
 //        doEdgeDetection(frame);
 //        doFaceDetection(frame);
-        doMaskFaces(frame);
+        doTransparentFaces(frame);
     }
 
-    private void doMaskFaces(MBFImage frame) {
+    private void doTransparentFaces(MBFImage frame) {
         if(backgroundFrame == null){
             backgroundFrame = frame.clone();
             DisplayUtilities.display(backgroundFrame);
             return;
         }
-        replaceTransparentPixels(frame);
 
         FaceDetector<DetectedFace,FImage> fd = new HaarCascadeDetector(40);
         List<DetectedFace> faces = fd.detectFaces(Transforms.calculateIntensity(frame));
