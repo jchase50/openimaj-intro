@@ -1,13 +1,12 @@
 # openimaj-intro
-Introduction to OpenImaj lib
+Introduction to OpenIMAJ lib for video processing
 
-This project has branches '[00-baseline](https://github.com/jchase50/openimaj-intro/tree/00-baseline)' through 'NN-*' that walk through how to get started with openimaj. This project focuses specifically on getting started with openimaj for video. I tried to not repeat the [openimaj tutorial](http://openimaj.org/tutorial/). The openimaj tutorial is a great place to start to get a full picture of capabilities of openimaj.
+This project has branches '[00-baseline](https://github.com/jchase50/openimaj-intro/tree/00-baseline)' through 'nn-*' that walk through how to get started with OpenIMAJ. This project focuses specifically on getting started with OpenIMAJ for video. I tried to not repeat the [OpenIMAJ tutorial](http://openimaj.org/tutorial/). The OpenIMAJ tutorial is a great place to start to get a full picture of capabilities of OpenIMAJ.
 
-## Resources and Acknolodgements
+## Resources and Acknowledgements
 * http://openimaj.org/
-* http://openimaj.org/tutorial/  [pdf here](docs/openimaj-tutorial.pdf)
+* http://openimaj.org/tutorial/  [pdf here](docs/tutorial-pdf.pdf)
 * https://github.com/openimaj/openimaj
 
-## Acknolodgements
-* Creators of OpenImaj
- * Jonathon S. Hare, Sina Samangooei, and David P. Dupplaw of the Univiristy of South Hampton UK
+## Acknowledgements
+* Creators of OpenIMAJ: Jonathon S. Hare, Sina Samangooei, and David P. Dupplaw of the University of South Hampton UK
