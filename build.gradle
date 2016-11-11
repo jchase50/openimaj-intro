@@ -16,30 +16,13 @@ def openimajVersion = '1.3.5'
 
 dependencies {
 
-    compile "org.openimaj:audio-processing:${openimajVersion}"
-    compile "org.openimaj:demos:${openimajVersion}"
-    compile "org.openimaj:core-hadoop:${openimajVersion}"
-    compile "org.openimaj:faces:${openimajVersion}"
-    compile "org.openimaj:image-annotation:${openimajVersion}"
     compile "org.openimaj:image-feature-extraction:${openimajVersion}"
     compile "org.openimaj:image-local-features:${openimajVersion}"
     compile "org.openimaj:image-processing:${openimajVersion}"
-    compile "org.openimaj:clustering:${openimajVersion}"
-    compile "org.openimaj:nearest-neighbour:${openimajVersion}"
-    compile "org.openimaj:klt-tracker:${openimajVersion}"
     compile "org.openimaj:video-processing:${openimajVersion}"
+    compile "org.openimaj:core-video-capture:${openimajVersion}"
     compile "org.openimaj:xuggle-video:${openimajVersion}"
     compile "org.openimaj:common-stream:${openimajVersion}"
-    compile "org.openimaj:core-gpgpu:${openimajVersion}"
-
-    compile "com.nativelibs4java:javacl:1.0.0-RC2"
-    compile "com.nativelibs4java:libcl:1.0.0-RC2"
-
-//    compile "org.openimaj:core-web:${openimajVersion}"
-//    compile "org.openimaj:readability4j:${openimajVersion}"
-//    compile "org.openimaj:webpage-analysis:${openimajVersion}"
-
-    compile "net.sf.javaanpr:javaanpr:1.2.7"
-
-    testCompile "junit:junit:4.8.2"
+    compile "org.openimaj:faces:${openimajVersion}"
+    compile "org.openimaj:demos:${openimajVersion}"
 }
