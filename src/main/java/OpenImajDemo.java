@@ -26,7 +26,7 @@ public class OpenImajDemo implements VideoDisplayListener<MBFImage> {
     private MBFImage backgroundFrame;
 
     public OpenImajDemo(Float[] transparentColor, Float transparentTolerance) throws VideoCaptureException {
-        video = new VideoCapture(640, 480);
+        video = new VideoCapture(1024, 768);
         display = VideoDisplay.createVideoDisplay(video);
         display.addVideoListener(this);
         this.flatTransparentColor = flattenRGB(transparentColor);
@@ -56,9 +56,12 @@ public class OpenImajDemo implements VideoDisplayListener<MBFImage> {
         FaceDetector<DetectedFace,FImage> fd = new HaarCascadeDetector(40);
         List<DetectedFace> faces = fd.detectFaces(Transforms.calculateIntensity(frame));
         for( DetectedFace face : faces ) {
-            MBFImage bgForFaceRegion = backgroundFrame.extractROI(face.getBounds());
-            frame.overlayInplace(bgForFaceRegion, (int) face.getBounds().minX(), (int) face.getBounds().minY());
-            frame.drawShape(face.getBounds(), RGBColour.RED);
+
+            for(int i = (int) face.getBounds().minX(); i < face.getBounds().maxX(); i++){
+                for(int j = (int) face.getBounds().minY(); j < face.getBounds().maxY(); j++){
+                    frame.setPixel(i, j, backgroundFrame.getPixel(i, j));
+                }
+            }
         }
     }
 
