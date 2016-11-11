@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jogamp.jogl:jogl-all:natives-macosx-universal:2.0-rc11">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jogamp.jogl/jogl-all/2.0-rc11/4e068f0d6e73cdd7bfbffeba332424c9be38c184/jogl-all-2.0-rc11-natives-macosx-universal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jogamp.jogl/jogl-all/2.0-rc11/6a86a9ce357c085e3052efcf639447f9957b82b8/jogl-all-2.0-rc11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
