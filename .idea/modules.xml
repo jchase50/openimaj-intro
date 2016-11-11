@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/openimaj-intro.iml" filepath="$PROJECT_DIR$/openimaj-intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openimaj-intro.iml" filepath="$PROJECT_DIR$/.idea/modules/openimaj-intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openimaj-intro_main.iml" filepath="$PROJECT_DIR$/.idea/modules/openimaj-intro_main.iml" group="openimaj-intro" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openimaj-intro_test.iml" filepath="$PROJECT_DIR$/.idea/modules/openimaj-intro_test.iml" group="openimaj-intro" />
     </modules>
   </component>
 </project>

@@ -17,7 +17,7 @@ public class OpenImajDemo implements VideoDisplayListener<MBFImage> {
     private MBFImage backgroundFrame;
 
     public OpenImajDemo(Float[] transparentColor, Float transparentTolerance) throws VideoCaptureException {
-        video = new VideoCapture(640, 480);
+        video = new VideoCapture(1024, 768);
         display = VideoDisplay.createVideoDisplay(video);
         display.addVideoListener(this);
         this.flatTransparentColor = flattenRGB(transparentColor);
@@ -32,11 +32,15 @@ public class OpenImajDemo implements VideoDisplayListener<MBFImage> {
     @Override
     public void beforeUpdate(MBFImage frame) {
         if(backgroundFrame == null){
-            backgroundFrame = frame.clone();
-            DisplayUtilities.display(backgroundFrame);
+            backgroundFrame = isBlackFrame(frame) ? null : frame.clone();
+            if(backgroundFrame != null) DisplayUtilities.display(backgroundFrame);
             return;
         }
         replaceTransparentPixels(frame);
+    }
+
+    private boolean isBlackFrame(MBFImage frame) {
+        return frame.flatten().max() < 0.1f;
     }
 
     private void replaceTransparentPixels(MBFImage frame) {
@@ -66,6 +70,6 @@ public class OpenImajDemo implements VideoDisplayListener<MBFImage> {
     }
 
     public static void main (String[] args) throws VideoCaptureException {
-        OpenImajDemo sliceDemo = new OpenImajDemo(new Float[]{0f,0f,0f}, 0.15f);
+        OpenImajDemo sliceDemo = new OpenImajDemo(new Float[]{0f,0f,0f}, 0.10f);
     }
 }
