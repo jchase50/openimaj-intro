@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/openimaj-intro2.iml" filepath="$PROJECT_DIR$/.idea/modules/openimaj-intro2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openimaj-intro2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/openimaj-intro2_main.iml" group="openimaj-intro2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openimaj-intro2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/openimaj-intro2_test.iml" group="openimaj-intro2" />
     </modules>
   </component>
 </project>

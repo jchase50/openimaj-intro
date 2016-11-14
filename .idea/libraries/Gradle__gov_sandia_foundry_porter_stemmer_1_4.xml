@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: gov.sandia.foundry:porter-stemmer:1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/gov.sandia.foundry/porter-stemmer/1.4/10a5de6a1171586dead3a2125f74f43f9b23db59/porter-stemmer-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/gov.sandia.foundry/porter-stemmer/1.4/b994b6a792b991d5640814830cef1771ddefda3a/porter-stemmer-1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

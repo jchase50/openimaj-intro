@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:klt-tracker:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/klt-tracker/1.3.5/64824a227f01629e57a7e9c042d2cbab2d22057/klt-tracker-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/klt-tracker/1.3.5/6ffcfa5b5a837a455a6f298e4d6e223acf4dac9a/klt-tracker-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

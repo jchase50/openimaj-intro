@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:clustering:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/clustering/1.3.5/c89ff815fa0dadae4263606fdabe32020f91cdb5/clustering-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/clustering/1.3.5/659cf70efc22fd6d40190b11b5c82938a3c01ce3/clustering-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

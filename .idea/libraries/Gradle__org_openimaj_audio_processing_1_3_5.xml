@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:audio-processing:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/audio-processing/1.3.5/dbd5bf9834f4ed08c8640de20033dc4e8f7c491e/audio-processing-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/audio-processing/1.3.5/55da83f6bd0201cce33892e0f68a6021eb30c63b/audio-processing-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

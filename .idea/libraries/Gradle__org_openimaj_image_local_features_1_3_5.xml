@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:image-local-features:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/image-local-features/1.3.5/20fe27773a591971ee86285f0e11a352544fab2d/image-local-features-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/image-local-features/1.3.5/a7ca8e4e9ab133dd51a4d96d9762d2921bcb2905/image-local-features-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:FaceTracker:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/FaceTracker/1.3.5/9fcdb461b03895d16892912e1f5acd2052701eb8/FaceTracker-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/FaceTracker/1.3.5/100045a064e0bfece1fc798e23abbdc906e8fc41/FaceTracker-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

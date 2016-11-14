@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.opennlp:opennlp-uima:1.5.2-incubating">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.opennlp/opennlp-uima/1.5.2-incubating/13214dd79326aa5719d21ce2461e36c6bbd383d5/opennlp-uima-1.5.2-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.opennlp/opennlp-uima/1.5.2-incubating/ce9afe98f9e4a8095eff2e74f097ff9549f6c045/opennlp-uima-1.5.2-incubating-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

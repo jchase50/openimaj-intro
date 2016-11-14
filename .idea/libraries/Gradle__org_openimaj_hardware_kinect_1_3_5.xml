@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj.hardware:kinect:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj.hardware/kinect/1.3.5/3142f4a41f39c8d94c7b7446dbb9cec486e34b1b/kinect-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj.hardware/kinect/1.3.5/c00c4700c6f25a512f795075b6327aac67405d43/kinect-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

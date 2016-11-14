@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:core-rdf:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/core-rdf/1.3.5/70342fec77b27b318de8b5b0dbcefd9d8ac38858/core-rdf-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/core-rdf/1.3.5/7505736a09b7b476879936a8fd296eb784aa2d78/core-rdf-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

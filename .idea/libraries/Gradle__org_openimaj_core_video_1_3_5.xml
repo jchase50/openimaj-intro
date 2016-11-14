@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:core-video:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/core-video/1.3.5/f18034ec5c797043faaad1c53c1302d9c02b1c08/core-video-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/core-video/1.3.5/c503bf87e4873c11617b22517c8d3daa17dd818c/core-video-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

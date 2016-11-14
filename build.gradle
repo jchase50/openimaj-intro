@@ -1,0 +1,29 @@
+plugins {
+    id 'application'
+}
+
+jar {
+    jar.baseName = "openimaj-intro"
+}
+
+repositories {
+    mavenCentral()
+    maven {url "http://maven.openimaj.org/"}
+    maven {url "http://nativelibs4java.sourceforge.net/maven/"}
+}
+
+def openimajVersion = '1.3.5'
+
+dependencies {
+
+    compile "org.openimaj:image-feature-extraction:${openimajVersion}"
+    compile "org.openimaj:image-local-features:${openimajVersion}"
+    compile "org.openimaj:image-processing:${openimajVersion}"
+    compile "org.openimaj:video-processing:${openimajVersion}"
+    compile "org.openimaj:core-video-capture:${openimajVersion}"
+    compile "org.openimaj:xuggle-video:${openimajVersion}"
+    compile "org.openimaj:common-stream:${openimajVersion}"
+    compile "org.openimaj:faces:${openimajVersion}"
+    compile "org.openimaj:demos:${openimajVersion}"
+
+}

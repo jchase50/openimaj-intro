@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:image-processing:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/image-processing/1.3.5/be7cdb146bb1e85a412549d15d885995dd16d839/image-processing-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/image-processing/1.3.5/b853b68ef80feb6682c2e83d340155a47d78f51b/image-processing-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

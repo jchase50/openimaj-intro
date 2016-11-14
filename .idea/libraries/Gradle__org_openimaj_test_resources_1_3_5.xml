@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:test-resources:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/test-resources/1.3.5/6ca801729f88c4ef17857cb1ad1475ae12b914f2/test-resources-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/test-resources/1.3.5/2c75852259be8b269650b75704429a8a548cd6d2/test-resources-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

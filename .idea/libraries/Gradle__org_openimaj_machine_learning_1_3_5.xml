@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:machine-learning:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/machine-learning/1.3.5/5801f3509ead6afdee6087d12ebfa3f50122e29/machine-learning-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/machine-learning/1.3.5/887a953edc2f68bb2e739f0bc5a26ea4b47ffbd0/machine-learning-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

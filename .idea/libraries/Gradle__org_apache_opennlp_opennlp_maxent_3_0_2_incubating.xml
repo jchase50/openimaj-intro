@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.opennlp:opennlp-maxent:3.0.2-incubating">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.opennlp/opennlp-maxent/3.0.2-incubating/b6c5e43e399b076d2c3ce013898c9d6229a55066/opennlp-maxent-3.0.2-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.opennlp/opennlp-maxent/3.0.2-incubating/b3395fec264ee7bcfe96a45a3375489ba7009d3e/opennlp-maxent-3.0.2-incubating-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

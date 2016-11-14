@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:nlp:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/nlp/1.3.5/7a8f969ae1492437f91e56d2b064b59180e90528/nlp-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/nlp/1.3.5/5f3ab8985122f742c75a036a49e38d31bc2d43dd/nlp-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

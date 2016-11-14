@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:xuggle-video:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/xuggle-video/1.3.5/985d13eb7ac66a6bfa9f362b4114c4c2852681ba/xuggle-video-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/xuggle-video/1.3.5/5c61753718957b4206eead7c6b42d5bf703ffc7c/xuggle-video-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

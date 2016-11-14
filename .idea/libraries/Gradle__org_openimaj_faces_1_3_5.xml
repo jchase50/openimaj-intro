@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:faces:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/faces/1.3.5/31f8b9394e10836cdb3ea886b239acf1cc113e5/faces-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/faces/1.3.5/10b5c22a341748f25b2eac5993bc15b777a23d24/faces-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

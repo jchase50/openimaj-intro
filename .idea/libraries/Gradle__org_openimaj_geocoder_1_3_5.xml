@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:geocoder:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/geocoder/1.3.5/f0d844f230f16ae87af8ea669de363e970981c1b/geocoder-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/geocoder/1.3.5/c410d7e344ed4b7388b7040f9a0d803793403dd5/geocoder-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

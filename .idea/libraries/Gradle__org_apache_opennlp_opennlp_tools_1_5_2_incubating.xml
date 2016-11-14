@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.opennlp:opennlp-tools:1.5.2-incubating">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.opennlp/opennlp-tools/1.5.2-incubating/357b094d59517e1a389369de900735da8c75bfc/opennlp-tools-1.5.2-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.opennlp/opennlp-tools/1.5.2-incubating/a4bb4b7c9ee3ba767671286fbae6362cdd156cc2/opennlp-tools-1.5.2-incubating-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

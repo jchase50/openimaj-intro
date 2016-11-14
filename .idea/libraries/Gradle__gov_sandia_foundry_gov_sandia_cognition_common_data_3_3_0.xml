@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: gov.sandia.foundry:gov-sandia-cognition-common-data:3.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/gov.sandia.foundry/gov-sandia-cognition-common-data/3.3.0/d0642517265ff039cbbd372eb62b8c1ceed4542a/gov-sandia-cognition-common-data-3.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/gov.sandia.foundry/gov-sandia-cognition-common-data/3.3.0/be280647b021f4817973c34e8bc6533bb5e4afff/gov-sandia-cognition-common-data-3.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

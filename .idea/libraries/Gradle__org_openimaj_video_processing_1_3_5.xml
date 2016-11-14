@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:video-processing:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/video-processing/1.3.5/7fbda7e8e1a40e92ed8402ed5dab61c1c3dee305/video-processing-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/video-processing/1.3.5/28a1bd130ff6387c517d09b35386ad98092c9d3e/video-processing-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
