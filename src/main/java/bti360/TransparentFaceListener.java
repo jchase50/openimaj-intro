@@ -31,12 +31,16 @@ public class TransparentFaceListener implements VideoDisplayListener<MBFImage> {
             return;
         }
 
-        doTransparentFace(frame);
+        List<DetectedFace> faces = findFaces(frame);
+        makeFacesTransparent(faces, frame, bgImage);
     }
 
-    private void doTransparentFace(MBFImage frame) {
+    private List<DetectedFace> findFaces(MBFImage frame) {
         FaceDetector<DetectedFace,FImage> fd = new HaarCascadeDetector(40);
-        List<DetectedFace> faces = fd.detectFaces(Transforms.calculateIntensity(frame));
+        return fd.detectFaces(Transforms.calculateIntensity(frame));
+    }
+
+    private void makeFacesTransparent(List<DetectedFace> faces, MBFImage frame, MBFImage bgImage) {
         for( DetectedFace face : faces ) {
             for(int i = (int) face.getBounds().minX(); i < face.getBounds().maxX(); i++){
                 for(int j = (int) face.getBounds().minY(); j < face.getBounds().maxY(); j++){
